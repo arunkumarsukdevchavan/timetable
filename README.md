@@ -124,3 +124,6 @@ Execute the program
 
 # OUTPUT:
 ![output](/tt.png)
+ 
+# RESULT:
+And thus we created a webpage displaying the timetable . 
